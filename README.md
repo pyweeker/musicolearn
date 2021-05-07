@@ -1,2 +1,2 @@
 # musicolearn
-learn music theory and funny experiment it with python, music 21and arcade library
+learn music theory and funny experiment, with python, music 21 and arcade library
