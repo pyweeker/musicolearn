@@ -1,5 +1,7 @@
 # musicolearn
 learn music theory and funny experiment, with python, music 21 and arcade library
+Notation is international , you can change the png files to change the texture to get french notation.
+i can do it, later...
 
 24th May 2021: Beta test:
 ------
