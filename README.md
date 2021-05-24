@@ -6,7 +6,7 @@ i can do it, later...
 
 24th May 2021: Beta test:
 ------
-Octaves are wrong for the moment.
+Octaves are wrong for the moment. 7th is may be too high on the screen, depend your screen resolution.
 --------
 Jump on it to launch Chords , fire bullet with left click to launch notes.
 ----------
