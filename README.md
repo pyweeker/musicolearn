@@ -4,7 +4,7 @@ learn music theory and funny experiment, with python, music 21 and arcade librar
 Notation is international , you can change the png files to change the texture to get french notation.
 i can do it, later...
 
-5th june: added third octave chords
+5th june: added third octave chords , differents maps for test playing notes and chords
 ------------
 
 4th june 2021: octaves from C3 to B5 with new sounds and new tiles ,Introducing sharps ; only C4E4G4 and C4E4G4B4 chords today.
