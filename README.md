@@ -1,5 +1,6 @@
 # musicolearn
 learn music theory and funny experiment, with python, music 21 and arcade library.
+This is C major (Do majeur) for the moment.
 
 Notation is international , you can change the png files to change the texture to get french notation.
 i can do it, later...
