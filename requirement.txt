@@ -1,1 +1,1 @@
-pipenv install arcade music21
+pipenv install https://github.com/pythonarcade/arcade/archive/refs/heads/development.zip
