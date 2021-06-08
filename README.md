@@ -5,6 +5,9 @@ This is C major (Do majeur) for the moment.
 Notation is international , you can change the png files to change the texture to get french notation.
 i can do it, later...
 
+8th june: broken due to Arcade develoment branch modification, will be fixed soon.
+------
+
 6th june: added fourth octave chords
 ---------
 5th june: added third octave chords , differents maps for test playing notes and chords
